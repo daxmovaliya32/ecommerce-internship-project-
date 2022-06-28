@@ -16,7 +16,7 @@ const dotenv = require("dotenv");
 const app = express();
 require("./config/passport");
 
-// mongodb configuration
+// mongodb configurationvvcdccdc
 connectDB();
 // view engine setup
 app.set("views", path.join(__dirname, "views"));
